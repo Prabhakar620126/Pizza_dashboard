@@ -33,11 +33,13 @@ The dataset contains:
 | **Average Pizzas Per Order**  | Total Pizzas Sold ÷ Total Orders       |
 
 📊 Problem Statement 2 — Charts Requirement (Part 1)
+
 | Chart Requirement                      | Description                                               |
 | -------------------------------------- | --------------------------------------------------------- |
 | **Hourly Trend for Total Pizzas Sold** | Stacked bar chart for hourly fluctuations in order volume |
 | **Weekly Trend for Total Orders**      | Line chart showing peak weeks and seasonal order patterns |
 | **% Sales by Pizza Category**          | Pie chart showing category-wise contribution to revenue   |
+
 📈 Problem Statement 3 — Charts Requirement (Part 2)
 | Chart Requirement                 | Description                                                             |
 | --------------------------------- | ----------------------------------------------------------------------- |
@@ -48,10 +50,11 @@ The dataset contains:
 
 ## 📊 4. Dashboard Preview
 🔹 Summary Page
-![Pizza_Dashboard_Excel](<img width="937" height="554" alt="image" src="https://github.com/user-attachments/assets/d7ba2b42-3572-4fa6-97d4-c67056e36798" />
-)
-![PowerBI_dashbord](<img width="1332" height="730" alt="image" src="https://github.com/user-attachments/assets/54e98ada-f18c-4225-8dca-2dea537ac4b9" />
-)
+<img width="937" height="554" alt="image" src="https://github.com/user-attachments/assets/d7ba2b42-3572-4fa6-97d4-c67056e36798" />
+
+🔹 PowerBI_dashbord
+<img width="1332" height="730" alt="image" src="https://github.com/user-attachments/assets/54e98ada-f18c-4225-8dca-2dea537ac4b9" />
+
 
 ## 🛠 5. Tools & Technologies Used
   - Power BI Desktop
