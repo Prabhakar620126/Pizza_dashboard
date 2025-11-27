@@ -81,3 +81,8 @@ The dataset contains:
 ## 📌 8. Conclusion
 
 - This Pizza Sales Dashboard provides a complete analytical workflow—from KPIs to detailed visuals—empowering business managers to make better, data-driven decisions regarding product strategy, inventory, promotions, and customer behavior.
+
+# 🙌 Author  
+**PRABHAKAR KUMAR SHAHI**  
+📧 Email: prabhakar620126@gmail.com 
+🔗 GitHub: https://github.com/Prabhakar620126
